@@ -1,7 +1,7 @@
 #include <stdio.h>
 int gcd(int a,int b)
 {
-	int k,m; //abcdefg
+	int k,m; 
 	if (a<b) 
 	{
 		m=a;
