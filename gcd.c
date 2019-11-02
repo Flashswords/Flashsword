@@ -6,7 +6,7 @@ int gcd(int a,int b)
 	{
 		m=a;
 		a=b;
-		b=m;
+		b=m;     //a 
 	}
 	if (a%b==0)
 	    k=b; 
